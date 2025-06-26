@@ -1,0 +1,134 @@
+pdb_id	stability	pdb_id_orig	stability_detailed	stage
+1KXQ_m1	Stable	1KXQ	Stable	mutagenesis_1
+1KXT_m1	Stable	1KXT	Stable	mutagenesis_1
+1KXV_m1	Stable	1KXV	Stable	mutagenesis_1
+2X6M_m1	Stable	2X6M	Stable	mutagenesis_1
+3CFI_m1	Stable	3CFI	Stable	mutagenesis_1
+3G9A_m1	Stable	3G9A	Stable	mutagenesis_1
+3K1K_m1	Stable	3K1K	Stable	mutagenesis_1
+3K74_m1	Stable	3K74	Stable	mutagenesis_1
+3V0A_m1	Stable	3V0A	Stable	mutagenesis_1
+3ZKQ_m1	Stable	3ZKQ	Stable	mutagenesis_1
+4GRF_m1	Stable	4GRF	Stable	mutagenesis_1
+4HEP_m1	Stable	4HEP	Stable	mutagenesis_1
+4I13_m1	Stable	4I13	Stable	mutagenesis_1
+4KML_m1	Stable	4KML	Stable	mutagenesis_1
+4KRM_m1	Stable	4KRM	Stable	mutagenesis_1
+4LGS_m1	Stable	4LGS	Stable	mutagenesis_1
+4LHJ_m1	Stable	4LHJ	Stable	mutagenesis_1
+4MQS_m1	Stable	4MQS	Stable	mutagenesis_1
+4OCL_m1	Stable	4OCL	Stable	mutagenesis_1
+4QGY_m1	Stable	4QGY	Stable	mutagenesis_1
+4QKX_m1	Stable	4QKX	Stable	mutagenesis_1
+4S10_m1	Stable	4S10	Stable	mutagenesis_1
+4WEM_m1	Stable	4WEM	Stable	mutagenesis_1
+4WEN_m1	Stable	4WEN	Stable	mutagenesis_1
+4WEU_m1	Stable	4WEU	Stable	mutagenesis_1
+4X7C_m1	Stable	4X7C	Stable	mutagenesis_1
+1G6V_m1	Unstable	1G6V	Partially_stable	mutagenesis_1
+1RJC_m1	Unstable	1RJC	Partially_stable	mutagenesis_1
+1ZV5_m1	Unstable	1ZV5	Partially_stable	mutagenesis_1
+3J6A_m1	Unstable	3J6A	Partially_stable	mutagenesis_1
+4I0C_m1	Unstable	4I0C	Partially_stable	mutagenesis_1
+4W6W_m1	Unstable	4W6W	Partially_stable	mutagenesis_1
+1JTP_m1	Unstable	1JTP	Unstable	mutagenesis_1
+2P42_m1	Unstable	2P42	Unstable	mutagenesis_1
+3K7U_m1	Unstable	3K7U	Unstable	mutagenesis_1
+4C58_m1	Unstable	4C58	Unstable	mutagenesis_1
+4HEM_m1	Unstable	4HEM	Unstable	mutagenesis_1
+4LAJ_m1	Unstable	4LAJ	Unstable	mutagenesis_1
+4LGP_m1	Unstable	4LGP	Unstable	mutagenesis_1
+4W6X_m1	Unstable	4W6X	Unstable	mutagenesis_1
+4W6Y_m1	Unstable	4W6Y	Unstable	mutagenesis_1
+5IVN_m1	Unstable	5IVN	Unstable	mutagenesis_1
+1G6V_m2	Stable	1G6V	Stable	mutagenesis_2
+1JTP_m2	Stable	1JTP	Stable	mutagenesis_2
+1RJC_m2	Stable	1RJC	Stable	mutagenesis_2
+1ZV5_m2	Stable	1ZV5	Stable	mutagenesis_2
+3J6A_m2	Stable	3J6A	Stable	mutagenesis_2
+4I0C_m2	Stable	4I0C	Stable	mutagenesis_2
+4LAJ_m2	Stable	4LAJ	Stable	mutagenesis_2
+4W6W_m2	Stable	4W6W	Stable	mutagenesis_2
+4W6X_m2	Stable	4W6X	Stable	mutagenesis_2
+4W6Y_m2	Stable	4W6Y	Stable	mutagenesis_2
+5IVN_m2	Stable	5IVN	Stable	mutagenesis_2
+2P42_m2	Unstable	2P42	Unstable	mutagenesis_2
+3K7U_m2	Unstable	3K7U	Unstable	mutagenesis_2
+4C58_m2	Unstable	4C58	Unstable	mutagenesis_2
+4HEM_m2	Unstable	4HEM	Unstable	mutagenesis_2
+4LGP_m2	Unstable	4LGP	Unstable	mutagenesis_2
+1G6V	Unstable		Unstable	original
+1JTP	Unstable		Unstable	original
+1KXQ	Unstable		Unstable	original
+1KXT	Unstable		Unstable	original
+1KXV	Unstable		Unstable	original
+1RJC	Unstable		Unstable	original
+1ZV5	Unstable		Unstable	original
+2P42	Unstable		Unstable	original
+2X6M	Unstable		Unstable	original
+3CFI	Unstable		Unstable	original
+3G9A	Unstable		Unstable	original
+3J6A	Unstable		Unstable	original
+3K1K	Unstable		Unstable	original
+3K74	Unstable		Unstable	original
+3K7U	Unstable		Unstable	original
+3V0A	Unstable		Unstable	original
+3ZKQ	Unstable		Unstable	original
+4C58	Unstable		Unstable	original
+4GRF	Unstable		Unstable	original
+4HEM	Unstable		Unstable	original
+4HEP	Unstable		Unstable	original
+4I0C	Unstable		Unstable	original
+4I13	Unstable		Unstable	original
+4KML	Unstable		Unstable	original
+4KRM	Unstable		Unstable	original
+4LAJ	Unstable		Unstable	original
+4LGP	Unstable		Unstable	original
+4LGS	Unstable		Unstable	original
+4LHJ	Unstable		Unstable	original
+4MQS	Unstable		Unstable	original
+4OCL	Unstable		Unstable	original
+4QGY	Unstable		Unstable	original
+4QKX	Unstable		Unstable	original
+4S10	Unstable		Unstable	original
+4W6W	Unstable		Unstable	original
+4W6X	Unstable		Unstable	original
+4W6Y	Unstable		Unstable	original
+4WEM	Unstable		Unstable	original
+4WEN	Unstable		Unstable	original
+4WEU	Unstable		Unstable	original
+4X7C	Unstable		Unstable	original
+5IVN	Unstable		Unstable	original
+1OP9	Stable		Stable	original
+1ZVH	Stable		Stable	original
+1ZVY	Stable		Stable	original
+2BSE	Stable		Stable	original
+2XT1	Stable		Stable	original
+3EBA	Stable		Stable	original
+3P0G	Stable		Stable	original
+3RJQ	Stable		Stable	original
+4AQ1	Stable		Stable	original
+4C57	Stable		Stable	original
+4CDG	Stable		Stable	original
+4DK3	Stable		Stable	original
+4EIG	Stable		Stable	original
+4EIZ	Stable		Stable	original
+4FHB	Stable		Stable	original
+4GFT	Stable		Stable	original
+4GRE	Stable		Stable	original
+4GRH	Stable		Stable	original
+4IOS	Stable		Stable	original
+4KRO	Stable		Stable	original
+4LGR	Stable		Stable	original
+4LHQ	Stable		Stable	original
+4M3K	Stable		Stable	original
+4N1H	Stable		Stable	original
+4NBX	Stable		Stable	original
+4NBZ	Stable		Stable	original
+4NC2	Stable		Stable	original
+4ORZ	Stable		Stable	original
+4P2C	Stable		Stable	original
+4QO1	Stable		Stable	original
+4TVS	Stable		Stable	original
+4WGV	Stable		Stable	original
+4X7F	Stable		Stable	original
